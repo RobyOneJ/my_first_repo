@@ -1,4 +1,6 @@
 # my_first_repo
 My first github repo
 
-I am learning hot to use git!
+I am learning how to use git!
+
+Adding a new line!
